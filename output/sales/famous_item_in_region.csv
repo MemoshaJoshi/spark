@@ -1,0 +1,86 @@
+Region,Item Type,Total Units Sold
+,,
+Asia,Beverages,5702475.0
+Asia,Household,5731043.0
+Asia,Cosmetics,5980224.0
+Asia,Personal Care,6025809.0
+Asia,Meat,6043187.0
+Asia,Fruits,6086901.0
+Asia,Baby Food,6098168.0
+Asia,Clothes,6117405.0
+Asia,Vegetables,6121703.0
+Asia,Office Supplies,6187421.0
+Asia,Snacks,6330265.0
+Asia,Cereal,6397658.0
+Australia and Oceania,Baby Food,3282364.0
+Australia and Oceania,Household,3292338.0
+Australia and Oceania,Office Supplies,3299368.0
+Australia and Oceania,Meat,3312007.0
+Australia and Oceania,Snacks,3322633.0
+Australia and Oceania,Cosmetics,3368330.0
+Australia and Oceania,Fruits,3370515.0
+Australia and Oceania,Clothes,3393563.0
+Australia and Oceania,Beverages,3436051.0
+Australia and Oceania,Cereal,3535286.0
+Australia and Oceania,Vegetables,3569149.0
+Australia and Oceania,Personal Care,3616014.0
+Central America and the Caribbean,Vegetables,4132501.0
+Central America and the Caribbean,Personal Care,4210435.0
+Central America and the Caribbean,Cereal,4372988.0
+Central America and the Caribbean,Beverages,4425032.0
+Central America and the Caribbean,Snacks,4476063.0
+Central America and the Caribbean,Fruits,4476216.0
+Central America and the Caribbean,Household,4493724.0
+Central America and the Caribbean,Baby Food,4524204.0
+Central America and the Caribbean,Office Supplies,4595205.0
+Central America and the Caribbean,Meat,4675081.0
+Central America and the Caribbean,Clothes,4675554.0
+Central America and the Caribbean,Cosmetics,4814795.0
+Europe,Cosmetics,10341515.0
+Europe,Snacks,10450358.0
+Europe,Baby Food,10612395.0
+Europe,Personal Care,10617076.0
+Europe,Household,10735436.0
+Europe,Meat,10739761.0
+Europe,Clothes,10767782.0
+Europe,Fruits,10773210.0
+Europe,Beverages,10782748.0
+Europe,Vegetables,10859623.0
+Europe,Office Supplies,10905284.0
+Europe,Cereal,11076271.0
+Middle East and North Africa,Fruits,4975642.0
+Middle East and North Africa,Cosmetics,5097406.0
+Middle East and North Africa,Beverages,5135264.0
+Middle East and North Africa,Cereal,5233584.0
+Middle East and North Africa,Household,5265993.0
+Middle East and North Africa,Meat,5288691.0
+Middle East and North Africa,Vegetables,5307528.0
+Middle East and North Africa,Snacks,5346822.0
+Middle East and North Africa,Clothes,5356314.0
+Middle East and North Africa,Baby Food,5381090.0
+Middle East and North Africa,Personal Care,5425062.0
+Middle East and North Africa,Office Supplies,5431214.0
+North America,Fruits,772380.0
+North America,Office Supplies,852011.0
+North America,Snacks,856105.0
+North America,Clothes,867111.0
+North America,Meat,890774.0
+North America,Vegetables,904280.0
+North America,Personal Care,908537.0
+North America,Baby Food,910088.0
+North America,Cereal,955574.0
+North America,Beverages,959618.0
+North America,Household,972617.0
+North America,Cosmetics,996810.0
+Sub-Saharan Africa,Fruits,10342412.0
+Sub-Saharan Africa,Vegetables,10360052.0
+Sub-Saharan Africa,Clothes,10585763.0
+Sub-Saharan Africa,Cereal,10677794.0
+Sub-Saharan Africa,Personal Care,10714833.0
+Sub-Saharan Africa,Meat,10792594.0
+Sub-Saharan Africa,Snacks,10916846.0
+Sub-Saharan Africa,Household,10967644.0
+Sub-Saharan Africa,Office Supplies,11022827.0
+Sub-Saharan Africa,Beverages,11073025.0
+Sub-Saharan Africa,Baby Food,11103311.0
+Sub-Saharan Africa,Cosmetics,11315140.0
